@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TesdaDay2",
+            "request": "launch",
+            "mainClass": "TesdaDay2.TesdaDay2",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

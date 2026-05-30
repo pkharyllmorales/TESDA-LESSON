@@ -1,7 +1,9 @@
-package Tesda_Day2;
+package TesdaDay2;
 
-public class PrimitiveDemo {
+public class TesdaDay2 {
     public static void main(String[] args) {
+        System.out.println("Hello World");
+
 
         boolean isRaining =false; // true : false
         char c = 65535; ////2^16 'a' 1 //no negative value
@@ -12,9 +14,12 @@ public class PrimitiveDemo {
         float f = 1.0f; //2^32 floating point value
         double d = 1.0; //2^64 floating point value
         System.out.println(c);
-
         System.out.println(b);
-        System.out.println("Hello World");
+        System.out.println(s);
+        System.out.println(i);
+        System.out.println(l);
+        System.out.println(f);
+        System.out.println(d);
+
     }
-    
 }
