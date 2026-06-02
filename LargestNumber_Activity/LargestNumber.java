@@ -27,10 +27,10 @@ public class LargestNumber {
                 System.out.println("The largest number isssss " + largest + "!!");
             }
             
-            System.out.print("Do you want to enter more numbers? (yes/no): ");
+            System.out.print("Do you want to enter more numbers? (Yes/No): ");
             String response = scanner.next();
             if (!response.equalsIgnoreCase("yes")) {
-                System.out.println("Goodbye!");
+                System.out.println("Goodbye. Thank you!");
                 break;
             }
         }
