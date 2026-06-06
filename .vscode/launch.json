@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Task1",
+            "request": "launch",
+            "mainClass": "Task1",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorldApp",
+            "request": "launch",
+            "mainClass": "chapter1.HelloWorldApp",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "CompareValues",
+            "request": "launch",
+            "mainClass": "CompareValues",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
             "name": "Chap2Task2",
             "request": "launch",
             "mainClass": "Chap2Task2",
