@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Chap3Task5",
+            "request": "launch",
+            "mainClass": "Chap3Task5",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "Task5",
+            "request": "launch",
+            "mainClass": "Task5",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
             "name": "LargestNumber",
             "request": "launch",
             "mainClass": "LargestNumber_Activity.LargestNumber",
