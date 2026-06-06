@@ -1,4 +1,4 @@
-public class Main {
+public class Chap2Task2 {
     public static void main(String[] args) {
 
         char letter = 'H';

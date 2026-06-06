@@ -2,7 +2,7 @@ public class Chap2Task3 {
     public static void main(String[] args) {
       
         String a = "Wow";
-        String b = a;           //
+        String b = a;           
         String c = "Different"; 
         String d = "Wow!";     
 
