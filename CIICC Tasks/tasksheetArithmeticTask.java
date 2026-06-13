@@ -5,17 +5,17 @@ class tasksheetArithmeticTask{
         int result = 1099 + 11; 
         System.out.println(result);
 
-        result = result - 1090; 
+        result -= 1090; 
         System.out.println(result);
 
-        result = result * 1022;
+        result *= 1022;
         System.out.println(result);
 
-        result = result / 1012; 
+        result /= 1012; 
         System.out.println(result);
 
-        result = result + 1008; 
-        result = result % 1007;
+        result += 1008; 
+        result %= 1007;
         System.out.println(result);
 
     }
