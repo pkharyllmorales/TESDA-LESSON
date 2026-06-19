@@ -6,7 +6,7 @@ public class Chap4Task8 {
         
         System.out.println("\nTotal return value (Sum of all computed cumulative results): " + totalSum);
         
-        System.out.println("\n--- Processing Another Example: (3, 6) ---");
+        System.out.println("\n PROCESSING PARAMETERS: (3, 6)");
         int totalSum2 = processAndSum(3, 6);
         System.out.println("\nTotal return value: " + totalSum2);
     }
@@ -18,7 +18,7 @@ public class Chap4Task8 {
             
             StringBuilder expression = new StringBuilder();
             for (int i = 1; i <= num; i++) {
-                expression.append(i);
+                expression.append(i);S
                 if (i < num) {
                     expression.append("+");
                 }
