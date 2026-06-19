@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Chap4Task8",
+            "request": "launch",
+            "mainClass": "Chap4Task8",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
             "name": "Chap4Task7",
             "request": "launch",
             "mainClass": "Chap4Task7",
