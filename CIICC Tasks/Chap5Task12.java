@@ -17,8 +17,6 @@ public class Chap5Task12 {
             p.scale();
             p.print();
         }
-
-        // 5. Close the scanner to release resources
         scanner.close();
     }
 }
