@@ -18,7 +18,7 @@ public class Chap4Task8 {
             
             StringBuilder expression = new StringBuilder();
             for (int i = 1; i <= num; i++) {
-                expression.append(i);S
+                expression.append(i);
                 if (i < num) {
                     expression.append("+");
                 }
