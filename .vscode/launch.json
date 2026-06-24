@@ -6,6 +6,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "MainApp",
             "request": "launch",
             "mainClass": "MainApp",
@@ -22,6 +23,144 @@
             "type": "jdk",
             "request": "launch",
             "name": "Launch Java App"
+=======
+            "name": "Chap5Task15",
+            "request": "launch",
+            "mainClass": "Chap5Task15",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "Chap5Task14",
+            "request": "launch",
+            "mainClass": "Chap5Task14",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "Chap5Task13",
+            "request": "launch",
+            "mainClass": "Chap5Task13",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "Chap5Task12",
+            "request": "launch",
+            "mainClass": "Chap5Task12",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "Chap4Task11",
+            "request": "launch",
+            "mainClass": "Chap4Task11",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "Chap4Task10",
+            "request": "launch",
+            "mainClass": "Chap4Task10",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "Chap4Task9",
+            "request": "launch",
+            "mainClass": "Chap4Task9",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "Chap4Task8",
+            "request": "launch",
+            "mainClass": "Chap4Task8",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "Chap4Task7",
+            "request": "launch",
+            "mainClass": "Chap4Task7",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "Task1",
+            "request": "launch",
+            "mainClass": "Task1",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorldApp",
+            "request": "launch",
+            "mainClass": "chapter1.HelloWorldApp",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "CompareValues",
+            "request": "launch",
+            "mainClass": "CompareValues",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "Chap2Task2",
+            "request": "launch",
+            "mainClass": "Chap2Task2",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "Chap2Task3",
+            "request": "launch",
+            "mainClass": "Chap2Task3",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "Chap3Task5",
+            "request": "launch",
+            "mainClass": "Chap3Task5",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "Task5",
+            "request": "launch",
+            "mainClass": "Task5",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "LargestNumber",
+            "request": "launch",
+            "mainClass": "LargestNumber_Activity.LargestNumber",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "WaterBottle",
+            "request": "launch",
+            "mainClass": "TesdaDay2.WaterBottle",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "TesdaDay2",
+            "request": "launch",
+            "mainClass": "TesdaDay2.TesdaDay2",
+            "projectName": "ciiccb62026-main_a86bbc6f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+>>>>>>> b36a55685c934f0711936c805842d8151843fef6
         }
     ]
 }
